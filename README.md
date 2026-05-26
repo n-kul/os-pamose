@@ -1,7 +1,5 @@
 # PAMOSE-01
 
-Portable Avionics Mistake  
-Orbital Scooter Equipment
 
 ---
 
